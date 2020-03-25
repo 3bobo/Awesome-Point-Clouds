@@ -29,7 +29,7 @@ Awesome paper/code for point clouds with deep learning methods in detection and 
 - VoteNet: [Deep Hough Voting for 3D Object Detection in Point Clouds](http://openaccess.thecvf.com/content_ICCV_2019/papers/Qi_Deep_Hough_Voting_for_3D_Object_Detection_in_Point_Clouds_ICCV_2019_paper.pdf) [[Code Page](https://github.com/facebookresearch/votenet)] [ICCV'2019]
 - Fast Point R-CNN: [Fast Point R-CNN](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Fast_Point_R-CNN_ICCV_2019_paper.pdf) [ICCV'2019]
 - STD: [STD: Sparse-to-Dense 3D Object Detector for Point Cloud Zetong](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_STD_Sparse-to-Dense_3D_Object_Detector_for_Point_Cloud_ICCV_2019_paper.pdf)  [ICCV'2019]
-- PointPainting: [PointPainting: Sequential Fusion for 3D Object Detection] (https://arxiv.org/pdf/1911.10150.pdf)[arXiv'2019]
+- PointPainting: [PointPainting: Sequential Fusion for 3D Object Detection](https://arxiv.org/pdf/1911.10150.pdf)[arXiv'2019]
 - Part-A^2: [From Points to Parts: 3D Object Detection from Point Cloud with Part-aware and Part-aggregation Network](https://arxiv.org/pdf/1907.03670v3.pdf) [[Code Page](https://github.com/sshaoshuai/PCDet)] [TPAMI'2020]
 - Pseudo-LiDAR++: [Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving](https://arxiv.org/pdf/1907.03670v3.pdf) [[Code Page](https://github.com/mileyan/Pseudo_Lidar_V2)] [ICLR'2020]
 - PV-RCNN: [PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection](https://arxiv.org/pdf/1912.13192.pdf) [[Code Page](https://github.com/sshaoshuai/PV-RCNN)] [CVPR'2020]
