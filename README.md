@@ -18,6 +18,8 @@ Awesome paper/code for point clouds with deep learning methods in detection and 
 - PIXOR: [PIXOR: Real-time 3D Object Detection from Point Clouds](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_PIXOR_Real-Time_3D_CVPR_2018_paper.pdf) [[Code Page](https://github.com/philip-huang/PIXOR)] [CVPR'2018]
 - IPOD: [IPOD: Intensive Point-based Object Detector for Point Cloud Zetong](https://arxiv.org/pdf/1812.05276.pdf) [arXiv'2018]
 - VoxelNet: [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_VoxelNet_End-to-End_Learning_CVPR_2018_paper.pdf) [[Code Page](https://github.com/qianguih/voxelnet)] [CVPR'2018]
+- FaF: [Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion
+Forecasting with a Single Convolutional Net](http://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Fast_and_Furious_CVPR_2018_paper.pdf) [CVPR'2018]
 - Second: [SECOND: Sparsely Embedded Convolutional Detection](https://www.mdpi.com/1424-8220/18/10/3337) [[Code Page](https://github.com/traveller59/second.pytorch)] [Sensors'2018]
 - AVOD: [Joint 3D Proposal Generation and Object Detection from View Aggregation](https://arxiv.org/pdf/1712.02294v4.pdf) [[Code Page](https://github.com/kujason/avod)] [IROS'2018]
 - RoarNet: [RoarNet: A Robust 3D Object Detection based on RegiOn Approximation Refinement](https://arxiv.org/pdf/1811.03818.pdf) [[Code Page](https://github.com/reinforcementdriving/RoarNet)] [IV'2019]
@@ -31,6 +33,16 @@ Awesome paper/code for point clouds with deep learning methods in detection and 
 - STD: [STD: Sparse-to-Dense 3D Object Detector for Point Cloud Zetong](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_STD_Sparse-to-Dense_3D_Object_Detector_for_Point_Cloud_ICCV_2019_paper.pdf)  [ICCV'2019]
 - PointPainting: [PointPainting: Sequential Fusion for 3D Object Detection](https://arxiv.org/pdf/1911.10150.pdf)[arXiv'2019]
 - Part-A^2: [From Points to Parts: 3D Object Detection from Point Cloud with Part-aware and Part-aggregation Network](https://arxiv.org/pdf/1907.03670v3.pdf) [[Code Page](https://github.com/sshaoshuai/PCDet)] [TPAMI'2020]
-- Pseudo-LiDAR++: [Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving](https://arxiv.org/pdf/1907.03670v3.pdf) [[Code Page](https://github.com/mileyan/Pseudo_Lidar_V2)] [ICLR'2020]
+- Pseudo-LiDAR++: [Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving](https://openreview.net/pdf?id=BJedHRVtPB) [[Code Page](https://github.com/mileyan/Pseudo_Lidar_V2)] [ICLR'2020]
 - PV-RCNN: [PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection](https://arxiv.org/pdf/1912.13192.pdf) [[Code Page](https://github.com/sshaoshuai/PV-RCNN)] [CVPR'2020]
 - Point-GNN: [Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud](https://arxiv.org/pdf/2003.01251v1.pdf) [[Code Page](https://github.com/WeijingShi/Point-GNN)] [CVPR'2020]
+- SA-SSD: SA-SSD: Structure Aware Single-stage 3D Object Detection from Point Cloud [[Code Page](https://github.com/skyhehe123/SA-SSD)] [CVPR'2020]
+
+## Tracking
+- Complexer-YOLO: [Complexer-YOLO: Real-Time 3D Object Detection and Tracking on Semantic Point Clouds](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Autonomous%20Driving/Simon_Complexer_YOLO_Real-Time_3D_Object_Detection_and_Tracking_on_Semantic_CVPRW_2019_paper.pdf) [[Code Page](https://github.com/AI-liu/Complex-YOLO)] [CVPR'2019 Workshop]
+- 3DSiamese: [Leveraging Shape Completion for 3D Siamese Tracking](http://openaccess.thecvf.com/content_CVPR_2019/papers/Giancola_Leveraging_Shape_Completion_for_3D_Siamese_Tracking_CVPR_2019_paper.pdf) [[Code Page](https://github.com/SilvioGiancola/ShapeCompletion3DTracking)] [CVPR'2019]
+- AB3DMOT: [A Baseline for 3D Multi-Object Tracking](https://arxiv.org/pdf/1907.03961.pdf) [[Code Page](https://github.com/xinshuoweng/AB3DMOT)] [arXiv'2019]
+- mmMOT: [Robust Multi-Modality Multi-Object Tracking](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Robust_Multi-Modality_Multi-Object_Tracking_ICCV_2019_paper.pdf) [[Code Page](https://github.com/ZwwWayne/mmMOT)] [ICCV'2019]
+- DSM: [End-to-end Learning of Multi-sensor 3D Tracking by Detection](https://arxiv.org/pdf/1806.11534.pdf) [ICRA'2019]
+- PointTrackNet: [PointTrackNet: An End-to-End Network for 3-D
+Object Detection and Tracking from Point Clouds](https://www.ram-lab.com/papers/2020/wang2020pointtracknet.pdf) [ICRA'2020]
