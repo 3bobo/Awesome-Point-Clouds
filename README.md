@@ -16,7 +16,7 @@ Awesome paper/code for point clouds with deep learning methods in detection and 
 - MV3D: [Multi-View 3D Object Detection Network for Autonomous Driving](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_Multi-View_3D_Object_CVPR_2017_paper.pdf) [[Code Page](https://github.com/bostondiditeam/MV3D)] [CVPR'2017]
 - Frustum-Pointnets: [Frustum PointNets for 3D Object Detection from RGB-D Data](http://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_Frustum_PointNets_for_CVPR_2018_paper.pdf) [[Code Page](https://github.com/charlesq34/frustum-pointnets)] [CVPR'2018]
 - PIXOR: [PIXOR: Real-time 3D Object Detection from Point Clouds](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_PIXOR_Real-Time_3D_CVPR_2018_paper.pdf) [[Code Page](https://github.com/philip-huang/PIXOR)] [CVPR'2018]
-- IPOD: [IPOD: Intensive Point-based Object Detector for Point Cloud Zetong](https://arxiv.org/pdf/1812.05276.pdf) [arXiv'2018]
+- IPOD: [IPOD: Intensive Point-based Object Detector for Point Cloud](https://arxiv.org/pdf/1812.05276.pdf) [arXiv'2018]
 - VoxelNet: [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_VoxelNet_End-to-End_Learning_CVPR_2018_paper.pdf) [[Code Page](https://github.com/qianguih/voxelnet)] [CVPR'2018]
 - FaF: [Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion
 Forecasting with a Single Convolutional Net](http://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Fast_and_Furious_CVPR_2018_paper.pdf) [CVPR'2018]
