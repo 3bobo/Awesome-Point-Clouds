@@ -1,5 +1,5 @@
 # Point-Clouds-Papers
-Awesome paper/code for point clouds with deep learning methods in detection and tracking
+Awesome paper/code for point clouds with deep learning methods in detection and tracking. If you find some novel methods or have suggestions, please contact 1061213549@qq.com
 
 ## Datasets
 - KITTI: [Are we ready for Autonomous Driving? The KITTI Vision Benchmark Suite](http://www.cvlibs.net/publications/Geiger2012CVPR.pdf) [[Project Page](http://www.cvlibs.net/datasets/kitti/index.php)] [CVPR'2012]
