@@ -36,7 +36,7 @@ Forecasting with a Single Convolutional Net](http://openaccess.thecvf.com/conten
 - Pseudo-LiDAR++: [Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving](https://openreview.net/pdf?id=BJedHRVtPB) [[Code](https://github.com/mileyan/Pseudo_Lidar_V2)] [ICLR'2020]
 - PV-RCNN: [PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection](https://arxiv.org/pdf/1912.13192.pdf) [[Code](https://github.com/sshaoshuai/PV-RCNN)] [CVPR'2020]
 - Point-GNN: [Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud](https://arxiv.org/pdf/2003.01251v1.pdf) [[Code](https://github.com/WeijingShi/Point-GNN)] [CVPR'2020]
-- SA-SSD: SA-SSD: Structure Aware Single-stage 3D Object Detection from Point Cloud [[Code](https://github.com/skyhehe123/SA-SSD)] [CVPR'2020]
+- SA-SSD: Structure Aware Single-stage 3D Object Detection from Point Cloud [[Code](https://github.com/skyhehe123/SA-SSD)] [CVPR'2020]
 
 ## Tracking
 - Complexer-YOLO: [Complexer-YOLO: Real-Time 3D Object Detection and Tracking on Semantic Point Clouds](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Autonomous%20Driving/Simon_Complexer_YOLO_Real-Time_3D_Object_Detection_and_Tracking_on_Semantic_CVPRW_2019_paper.pdf) [[Code](https://github.com/AI-liu/Complex-YOLO)] [CVPR'2019 Workshop]
