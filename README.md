@@ -13,6 +13,8 @@ Awesome paper/code for point clouds with deep learning methods in detection and 
 - Ford AV Dataset : [Ford Multi-AV Seasonal Dataset](https://s23.q4cdn.com/258866874/files/doc_downloads/2020/03/2003.07969.pdf) [[Project Page](https://avdata.ford.com/home/default.aspx)] [arXiv'2020]
 
 ## Detection
+The collected methods do not include all papers in point cloud object detection. The condition is that either the paper has released code or the its result is at the top in leaderboard. 
+
 - MV3D: [Multi-View 3D Object Detection Network for Autonomous Driving](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_Multi-View_3D_Object_CVPR_2017_paper.pdf) [[Code](https://github.com/bostondiditeam/MV3D)] [CVPR'2017]
 - Frustum-Pointnets: [Frustum PointNets for 3D Object Detection from RGB-D Data](http://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_Frustum_PointNets_for_CVPR_2018_paper.pdf) [[Code](https://github.com/charlesq34/frustum-pointnets)] [CVPR'2018]
 - PIXOR: [PIXOR: Real-time 3D Object Detection from Point Clouds](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_PIXOR_Real-Time_3D_CVPR_2018_paper.pdf) [[Code](https://github.com/philip-huang/PIXOR)] [CVPR'2018]
