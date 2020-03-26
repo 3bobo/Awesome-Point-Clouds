@@ -1,4 +1,4 @@
-# Point-Clouds-Papers
+# Awesome-Point-Clouds
 Awesome paper/code for point clouds with deep learning methods in detection and tracking. If you find some novel methods or have suggestions, please contact 1061213549@qq.com
 
 ## Datasets
