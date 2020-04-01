@@ -38,7 +38,7 @@ Forecasting with a Single Convolutional Net](http://openaccess.thecvf.com/conten
 - Pseudo-LiDAR++: [Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving](https://openreview.net/pdf?id=BJedHRVtPB) [[Code](https://github.com/mileyan/Pseudo_Lidar_V2)] [ICLR'2020]
 - PV-RCNN: [PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection](https://arxiv.org/pdf/1912.13192.pdf) [[Code](https://github.com/sshaoshuai/PV-RCNN)] [CVPR'2020]
 - Point-GNN: [Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud](https://arxiv.org/pdf/2003.01251v1.pdf) [[Code](https://github.com/WeijingShi/Point-GNN)] [CVPR'2020]
-- SA-SSD: Structure Aware Single-stage 3D Object Detection from Point Cloud [[Code](https://github.com/skyhehe123/SA-SSD)] [CVPR'2020]
+- SA-SSD: [Structure Aware Single-stage 3D Object Detection from Point Cloud](https://www4.comp.polyu.edu.hk/~cslzhang/paper/SA-SSD.pdf) [[Code](https://github.com/skyhehe123/SA-SSD)] [CVPR'2020]
 - 3DSSD: [3DSSD: Point-based 3D Single Stage Object Detector](https://arxiv.org/pdf/2002.10187.pdf) [CVPR'2020]
 
 ## Tracking
