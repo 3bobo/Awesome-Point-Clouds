@@ -49,3 +49,10 @@ Forecasting with a Single Convolutional Net](http://openaccess.thecvf.com/conten
 - DSM: [End-to-end Learning of Multi-sensor 3D Tracking by Detection](https://arxiv.org/pdf/1806.11534.pdf) [ICRA'2019]
 - PointTrackNet: [PointTrackNet: An End-to-End Network for 3-D
 Object Detection and Tracking from Point Clouds](https://www.ram-lab.com/papers/2020/wang2020pointtracknet.pdf) [ICRA'2020]
+
+## Segmentation
+- RangeNet++: [RangeNet++: Fast and Accurate LiDAR Semantic Segmentation](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/milioto2019iros.pdf) [[Code](https://github.com/PRBonn/lidar-bonnetal)] [IROS'2019]
+- LU-Net: [LU-Net: An Efficient Network for 3D LiDAR Point Cloud Semantic Segmentation Based on End-to-End-Learned 3D Features and U-Net](https://arxiv.org/pdf/1908.11656.pdf) [[Code](https://github.com/pbias/lunet)] [CVPR'2019 Workshop]
+- PolarNet: [PolarNet: An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation](https://arxiv.org/pdf/2003.14032.pdf) [[Code](https://github.com/edwardzhou130/PolarSeg)] [CVPR'2020]
+- RandLA-Net: [RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds](https://arxiv.org/pdf/1911.11236.pdf) [[Code](https://github.com/QingyongHu/RandLA-Net)] [CVPR'2020]
+- 3D-MiniNet: [3D-MiniNet: Learning a 2D Representation from Point Clouds for Fast and Efficient 3D LIDAR Semantic Segmentation](https://arxiv.org/pdf/2002.10893v2.pdf) [[Code](https://github.com/Shathe/3D-MiniNet)] [arXiv'2020]
