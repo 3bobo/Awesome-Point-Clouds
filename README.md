@@ -11,6 +11,7 @@ Awesome paper/code for point clouds with deep learning methods in detection and 
 - Waymo: [Scalability in Perception for Autonomous Driving: Waymo Open Dataset](https://arxiv.org/pdf/1912.04838.pdf) [[Project Page](https://waymo.com/open/)] [arXiv'2019]
 - A* 3D: [A* 3D: An Autonomous Driving Dataset in Challeging Environments](https://arxiv.org/pdf/1909.07541.pdf) [[Project Page](https://github.com/I2RDL2/ASTAR-3D)] [ICRA'2020]
 - Ford AV Dataset : [Ford Multi-AV Seasonal Dataset](https://s23.q4cdn.com/258866874/files/doc_downloads/2020/03/2003.07969.pdf) [[Project Page](https://avdata.ford.com/home/default.aspx)] [arXiv'2020]
+- A2D2 : [A2D2: Audi Autonomous Driving Dataset](https://arxiv.org/pdf/2004.06320.pdf) [[Project Page](https://www.a2d2.audi/a2d2/en.html)] [arXiv'2020]
 
 ## Detection
 The collected methods do not include all papers in point cloud object detection. The condition is that either the paper has released code or its result is at the top in leaderboard. 
