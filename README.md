@@ -52,6 +52,9 @@ Forecasting with a Single Convolutional Net](http://openaccess.thecvf.com/conten
 Object Detection and Tracking from Point Clouds](https://www.ram-lab.com/papers/2020/wang2020pointtracknet.pdf) [ICRA'2020]
 
 ## Segmentation
+Segmentation part includes instance segmentation and semantic segmentation papers.
+
+- SGPN: [SGPN: Similarity Group Proposal Network for 3D Point Cloud Instance Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_SGPN_Similarity_Group_CVPR_2018_paper.pdf) [[Code](https://github.com/laughtervv/SGPN)] [CVPR'2018]
 - RangeNet++: [RangeNet++: Fast and Accurate LiDAR Semantic Segmentation](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/milioto2019iros.pdf) [[Code](https://github.com/PRBonn/lidar-bonnetal)] [IROS'2019]
 - LU-Net: [LU-Net: An Efficient Network for 3D LiDAR Point Cloud Semantic Segmentation Based on End-to-End-Learned 3D Features and U-Net](https://arxiv.org/pdf/1908.11656.pdf) [[Code](https://github.com/pbias/lunet)] [CVPR'2019 Workshop]
 - PolarNet: [PolarNet: An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation](https://arxiv.org/pdf/2003.14032.pdf) [[Code](https://github.com/edwardzhou130/PolarSeg)] [CVPR'2020]
