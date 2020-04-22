@@ -50,6 +50,7 @@ Forecasting with a Single Convolutional Net](http://openaccess.thecvf.com/conten
 - DSM: [End-to-end Learning of Multi-sensor 3D Tracking by Detection](https://arxiv.org/pdf/1806.11534.pdf) [ICRA'2019]
 - PointTrackNet: [PointTrackNet: An End-to-End Network for 3-D
 Object Detection and Tracking from Point Clouds](https://www.ram-lab.com/papers/2020/wang2020pointtracknet.pdf) [ICRA'2020]
+- Mahalanobis-KF: [Probabilistic 3D Multi-Object Tracking for Autonomous Driving](https://arxiv.org/pdf/2001.05673.pdf) [[Code](https://github.com/eddyhkchiu/mahalanobis_3d_multi_object_tracking)] [arXiv'2020]
 
 ## Segmentation
 Segmentation part includes instance segmentation and semantic segmentation papers.
@@ -62,3 +63,4 @@ Segmentation part includes instance segmentation and semantic segmentation paper
 - PolarNet: [PolarNet: An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation](https://arxiv.org/pdf/2003.14032.pdf) [[Code](https://github.com/edwardzhou130/PolarSeg)] [CVPR'2020]
 - RandLA-Net: [RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds](https://arxiv.org/pdf/1911.11236.pdf) [[Code](https://github.com/QingyongHu/RandLA-Net)] [CVPR'2020]
 - 3D-MiniNet: [3D-MiniNet: Learning a 2D Representation from Point Clouds for Fast and Efficient 3D LIDAR Semantic Segmentation](https://arxiv.org/pdf/2002.10893v2.pdf) [[Code](https://github.com/Shathe/3D-MiniNet)] [arXiv'2020]
+- 3D-MPA: [3D-MPA: Multi Proposal Aggregation for 3D Semantic Instance Segmentation](https://arxiv.org/pdf/2003.13867v1.pdf)  [CVPR'2020]
