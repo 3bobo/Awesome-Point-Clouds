@@ -41,6 +41,9 @@ Forecasting with a Single Convolutional Net](http://openaccess.thecvf.com/conten
 - Point-GNN: [Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud](https://arxiv.org/pdf/2003.01251v1.pdf) [[Code](https://github.com/WeijingShi/Point-GNN)] [CVPR'2020]
 - SA-SSD: [Structure Aware Single-stage 3D Object Detection from Point Cloud](https://www4.comp.polyu.edu.hk/~cslzhang/paper/SA-SSD.pdf) [[Code](https://github.com/skyhehe123/SA-SSD)] [CVPR'2020]
 - 3DSSD: [3DSSD: Point-based 3D Single Stage Object Detector](https://arxiv.org/pdf/2002.10187.pdf) [[Code](https://github.com/tomztyang/3DSSD)] [CVPR'2020]
+- EPNet: [EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection](https://arxiv.org/pdf/2007.08856.pdf) [[Code](https://github.com/happinesslz/EPNet)] [ECCV'2020]
+- HotSpot: [Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots](https://arxiv.org/pdf/1912.12791.pdf) [ECCV'2020]
+- Pillar-MVF: [Pillar-based Object Detection for Autonomous Driving](https://arxiv.org/pdf/2007.10323.pdf) [ECCV'2020]
 
 ## Tracking
 - Complexer-YOLO: [Complexer-YOLO: Real-Time 3D Object Detection and Tracking on Semantic Point Clouds](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Autonomous%20Driving/Simon_Complexer_YOLO_Real-Time_3D_Object_Detection_and_Tracking_on_Semantic_CVPRW_2019_paper.pdf) [[Code](https://github.com/AI-liu/Complex-YOLO)] [CVPR'2019 Workshop]
@@ -51,6 +54,7 @@ Forecasting with a Single Convolutional Net](http://openaccess.thecvf.com/conten
 - PointTrackNet: [PointTrackNet: An End-to-End Network for 3-D
 Object Detection and Tracking from Point Clouds](https://www.ram-lab.com/papers/2020/wang2020pointtracknet.pdf) [ICRA'2020]
 - Mahalanobis-KF: [Probabilistic 3D Multi-Object Tracking for Autonomous Driving](https://arxiv.org/pdf/2001.05673.pdf) [[Code](https://github.com/eddyhkchiu/mahalanobis_3d_multi_object_tracking)] [arXiv'2020]
+- P2B: [P2B: Point-to-Box Network for 3D Object Tracking in Point Clouds](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qi_P2B_Point-to-Box_Network_for_3D_Object_Tracking_in_Point_Clouds_CVPR_2020_paper.pdf) [[Code](https://github.com/HaozheQi/P2B)] [CVPR'2020]
 
 ## Segmentation
 Segmentation part includes instance segmentation and semantic segmentation papers.
