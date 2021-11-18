@@ -6,8 +6,8 @@ Awesome paper/code for point clouds with deep learning methods in detection and 
 - Apolloscape: [The ApolloScape Dataset for Autonomous Driving](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w14/Huang_The_ApolloScape_Dataset_CVPR_2018_paper.pdf) [[Project Page](http://apolloscape.auto/)] [CVPR'2018]
 - Argoverse: [Argoverse: 3D Tracking and Forecasting with Rich Maps](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf) [[Project Page](https://www.argoverse.org/index.html)] [CVPR'2019]
 - Nuscenes: [nuScenes: A multimodal dataset for autonomous driving](https://arxiv.org/pdf/1903.11027.pdf) [[Project Page](https://www.nuscenes.org/)] [arXiv'2019]
-- H3D: [The H3D Dataset for Full-Surround 3D Multi-Object Detection and Tracking in Crowded Urban Scenes](https://arxiv.org/pdf/1903.01568.pdf) [[Project Page](https://usa.honda-ri.com//H3D)] [ICAR'2019]
-- BLVD: [BLVD: Building A Large-scale 5D Semantics Benchmark for Autonomous Driving](https://arxiv.org/pdf/1903.06405v1.pdf) [[Project Page](https://github.com/VCCIV/BLVD)] [ICAR'2019]
+- H3D: [The H3D Dataset for Full-Surround 3D Multi-Object Detection and Tracking in Crowded Urban Scenes](https://arxiv.org/pdf/1903.01568.pdf) [[Project Page](https://usa.honda-ri.com//H3D)] [ICRA'2019]
+- BLVD: [BLVD: Building A Large-scale 5D Semantics Benchmark for Autonomous Driving](https://arxiv.org/pdf/1903.06405v1.pdf) [[Project Page](https://github.com/VCCIV/BLVD)] [ICRA'2019]
 - Waymo: [Scalability in Perception for Autonomous Driving: Waymo Open Dataset](https://arxiv.org/pdf/1912.04838.pdf) [[Project Page](https://waymo.com/open/)] [arXiv'2019]
 - A* 3D: [A* 3D: An Autonomous Driving Dataset in Challeging Environments](https://arxiv.org/pdf/1909.07541.pdf) [[Project Page](https://github.com/I2RDL2/ASTAR-3D)] [ICRA'2020]
 - Ford AV Dataset : [Ford Multi-AV Seasonal Dataset](https://s23.q4cdn.com/258866874/files/doc_downloads/2020/03/2003.07969.pdf) [[Project Page](https://avdata.ford.com/home/default.aspx)] [arXiv'2020]
@@ -46,6 +46,7 @@ Forecasting with a Single Convolutional Net](http://openaccess.thecvf.com/conten
 - Pillar-MVF: [Pillar-based Object Detection for Autonomous Driving](https://arxiv.org/pdf/2007.10323.pdf) [ECCV'2020]
 
 ## Tracking
+### MOT
 - Complexer-YOLO: [Complexer-YOLO: Real-Time 3D Object Detection and Tracking on Semantic Point Clouds](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Autonomous%20Driving/Simon_Complexer_YOLO_Real-Time_3D_Object_Detection_and_Tracking_on_Semantic_CVPRW_2019_paper.pdf) [[Code](https://github.com/AI-liu/Complex-YOLO)] [CVPR'2019 Workshop]
 - 3DSiamese: [Leveraging Shape Completion for 3D Siamese Tracking](http://openaccess.thecvf.com/content_CVPR_2019/papers/Giancola_Leveraging_Shape_Completion_for_3D_Siamese_Tracking_CVPR_2019_paper.pdf) [[Code](https://github.com/SilvioGiancola/ShapeCompletion3DTracking)] [CVPR'2019]
 - AB3DMOT: [A Baseline for 3D Multi-Object Tracking](https://arxiv.org/pdf/1907.03961.pdf) [[Code](https://github.com/xinshuoweng/AB3DMOT)] [arXiv'2019]
@@ -54,17 +55,13 @@ Forecasting with a Single Convolutional Net](http://openaccess.thecvf.com/conten
 - PointTrackNet: [PointTrackNet: An End-to-End Network for 3-D
 Object Detection and Tracking from Point Clouds](https://www.ram-lab.com/papers/2020/wang2020pointtracknet.pdf) [ICRA'2020]
 - Mahalanobis-KF: [Probabilistic 3D Multi-Object Tracking for Autonomous Driving](https://arxiv.org/pdf/2001.05673.pdf) [[Code](https://github.com/eddyhkchiu/mahalanobis_3d_multi_object_tracking)] [arXiv'2020]
+- GNN3DMOT: [GNN3DMOT: Graph Neural Network for 3D Multi-Object Tracking with 2D-3D Multi-Feature Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Weng_GNN3DMOT_Graph_Neural_Network_for_3D_Multi-Object_Tracking_With_2D-3D_CVPR_2020_paper.pdf) [[Code](https://github.com/xinshuoweng/GNN3DMOT)] [CVPR'2020]
+- PC-TCNN: [Tracklet Proposal Network for Multi-Object Tracking on Point Clouds](https://www.ijcai.org/proceedings/2021/0161.pdf)[IJCAI'2021]
+- LOGR: [Learnable Online Graph Representations for 3D Multi-Object Tracking](https://arxiv.org/pdf/2104.11747.pdf)[arXiv'2021]
+
+### SOT
 - P2B: [P2B: Point-to-Box Network for 3D Object Tracking in Point Clouds](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qi_P2B_Point-to-Box_Network_for_3D_Object_Tracking_in_Point_Clouds_CVPR_2020_paper.pdf) [[Code](https://github.com/HaozheQi/P2B)] [CVPR'2020]
-
-## Segmentation
-Segmentation part includes instance segmentation and semantic segmentation papers.
-
-- SqueezeSeg: [SqueezeSeg: Convolutional Neural Nets with Recurrent CRF for Real-Time Road-Object Segmentation from 3D LiDAR Point Cloud](https://arxiv.org/pdf/1710.07368.pdf) [[Code](https://github.com/BichenWuUCB/SqueezeSeg)] [ICRA'2018]
-- SGPN: [SGPN: Similarity Group Proposal Network for 3D Point Cloud Instance Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_SGPN_Similarity_Group_CVPR_2018_paper.pdf) [[Code](https://github.com/laughtervv/SGPN)] [CVPR'2018]
-- SqueezeSegV2: [SqueezeSegV2: Improved Model Structure and Unsupervised Domain Adaptation for Road-Object Segmentation from a LiDAR Point Cloud](https://arxiv.org/pdf/1809.08495.pdf) [[Code](https://github.com/xuanyuzhou98/SqueezeSegV2)] [ICRA'2019]
-- RangeNet++: [RangeNet++: Fast and Accurate LiDAR Semantic Segmentation](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/milioto2019iros.pdf) [[Code](https://github.com/PRBonn/lidar-bonnetal)] [IROS'2019]
-- LU-Net: [LU-Net: An Efficient Network for 3D LiDAR Point Cloud Semantic Segmentation Based on End-to-End-Learned 3D Features and U-Net](https://arxiv.org/pdf/1908.11656.pdf) [[Code](https://github.com/pbias/lunet)] [CVPR'2019 Workshop]
-- PolarNet: [PolarNet: An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation](https://arxiv.org/pdf/2003.14032.pdf) [[Code](https://github.com/edwardzhou130/PolarSeg)] [CVPR'2020]
-- RandLA-Net: [RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds](https://arxiv.org/pdf/1911.11236.pdf) [[Code](https://github.com/QingyongHu/RandLA-Net)] [CVPR'2020]
-- 3D-MiniNet: [3D-MiniNet: Learning a 2D Representation from Point Clouds for Fast and Efficient 3D LIDAR Semantic Segmentation](https://arxiv.org/pdf/2002.10893v2.pdf) [[Code](https://github.com/Shathe/3D-MiniNet)] [arXiv'2020]
-- 3D-MPA: [3D-MPA: Multi Proposal Aggregation for 3D Semantic Instance Segmentation](https://arxiv.org/pdf/2003.13867v1.pdf)  [CVPR'2020]
+- PTT: [PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds](https://arxiv.org/pdf/2108.06455.pdf) [[Code](https://github.com/shanjiayao/PTT)] [IROS'2021]
+- BAT: [Box-Aware Feature Enhancement for Single Object Tracking on Point Clouds](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Box-Aware_Feature_Enhancement_for_Single_Object_Tracking_on_Point_Clouds_ICCV_2021_paper.pdf) [[Code](https://github.com/Ghostish/BAT)] [ICCV'2021]
+- LTTR: [3D Object Tracking with Transformer](https://arxiv.org/pdf/2110.14921.pdf) [[Code](hhttps://github.com/3bobo/lttr)] [BMVC'2021]
+- V2B: [3D Siamese Voxel-to-BEV Tracker for Sparse Point Clouds](https://arxiv.org/pdf/2111.04426.pdf) [[Code](https://github.com/fpthink/V2B)] [NeurIPS'2021]
