@@ -56,12 +56,12 @@ Forecasting with a Single Convolutional Net](http://openaccess.thecvf.com/conten
 Object Detection and Tracking from Point Clouds](https://www.ram-lab.com/papers/2020/wang2020pointtracknet.pdf) [ICRA'2020]
 - Mahalanobis-KF: [Probabilistic 3D Multi-Object Tracking for Autonomous Driving](https://arxiv.org/pdf/2001.05673.pdf) [[Code](https://github.com/eddyhkchiu/mahalanobis_3d_multi_object_tracking)] [arXiv'2020]
 - GNN3DMOT: [GNN3DMOT: Graph Neural Network for 3D Multi-Object Tracking with 2D-3D Multi-Feature Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Weng_GNN3DMOT_Graph_Neural_Network_for_3D_Multi-Object_Tracking_With_2D-3D_CVPR_2020_paper.pdf) [[Code](https://github.com/xinshuoweng/GNN3DMOT)] [CVPR'2020]
-- PC-TCNN: [Tracklet Proposal Network for Multi-Object Tracking on Point Clouds](https://www.ijcai.org/proceedings/2021/0161.pdf)[IJCAI'2021]
-- LOGR: [Learnable Online Graph Representations for 3D Multi-Object Tracking](https://arxiv.org/pdf/2104.11747.pdf)[arXiv'2021]
+- PC-TCNN: [Tracklet Proposal Network for Multi-Object Tracking on Point Clouds](https://www.ijcai.org/proceedings/2021/0161.pdf) [IJCAI'2021]
+- LOGR: [Learnable Online Graph Representations for 3D Multi-Object Tracking](https://arxiv.org/pdf/2104.11747.pdf) [arXiv'2021]
 
 ### SOT
 - P2B: [P2B: Point-to-Box Network for 3D Object Tracking in Point Clouds](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qi_P2B_Point-to-Box_Network_for_3D_Object_Tracking_in_Point_Clouds_CVPR_2020_paper.pdf) [[Code](https://github.com/HaozheQi/P2B)] [CVPR'2020]
 - PTT: [PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds](https://arxiv.org/pdf/2108.06455.pdf) [[Code](https://github.com/shanjiayao/PTT)] [IROS'2021]
 - BAT: [Box-Aware Feature Enhancement for Single Object Tracking on Point Clouds](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Box-Aware_Feature_Enhancement_for_Single_Object_Tracking_on_Point_Clouds_ICCV_2021_paper.pdf) [[Code](https://github.com/Ghostish/BAT)] [ICCV'2021]
-- LTTR: [3D Object Tracking with Transformer](https://arxiv.org/pdf/2110.14921.pdf) [[Code](hhttps://github.com/3bobo/lttr)] [BMVC'2021]
+- LTTR: [3D Object Tracking with Transformer](https://arxiv.org/pdf/2110.14921.pdf) [[Code](https://github.com/3bobo/lttr)] [BMVC'2021]
 - V2B: [3D Siamese Voxel-to-BEV Tracker for Sparse Point Clouds](https://arxiv.org/pdf/2111.04426.pdf) [[Code](https://github.com/fpthink/V2B)] [NeurIPS'2021]
