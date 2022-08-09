@@ -57,7 +57,7 @@ Forecasting with a Single Convolutional Net](http://openaccess.thecvf.com/conten
 - RSN: [RSN: Range Sparse Net for Efficient, Accurate LiDAR 3D Object Detection](https://arxiv.org/pdf/2106.13365.pdf) [CVPR'2021]
 - PDV: [Point Density-Aware Voxels for LiDAR 3D Object Detection](https://arxiv.org/pdf/2203.05662.pdf) [[Code](https://github.com/TRAILab/PDV)] [CVPR'2022]
 - VoxSeT: [Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds](https://www4.comp.polyu.edu.hk/~cslzhang/paper/VoxSeT_cvpr22.pdf) [[Code](https://github.com/skyhehe123/VoxSeT)] [CVPR'2022]
-- Point2Seq: [Point2Seq: Detecting 3D Objects as Sequences arXiv:2203.13394v1](https://openaccess.thecvf.com/content/CVPR2022/papers/Xue_Point2Seq_Detecting_3D_Objects_As_Sequences_CVPR_2022_paper.pdf) [[Code](https://github.com/ocNflag/point2seq)] [CVPR'2022]
+- Point2Seq: [Point2Seq: Detecting 3D Objects as Sequences](https://openaccess.thecvf.com/content/CVPR2022/papers/Xue_Point2Seq_Detecting_3D_Objects_As_Sequences_CVPR_2022_paper.pdf) [[Code](https://github.com/ocNflag/point2seq)] [CVPR'2022]
 - PillarNet: [PillarNet : Real-Time and High-Performance Pillar-based 3D Object Detection](https://arxiv.org/pdf/2205.07403.pdf) [[Code](https://github.com/agent-sgs/PillarNet)] [ECCV'2022]
 
 
