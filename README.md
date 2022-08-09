@@ -12,6 +12,9 @@ Awesome paper/code for point clouds with deep learning methods in detection and 
 - A* 3D: [A* 3D: An Autonomous Driving Dataset in Challeging Environments](https://arxiv.org/pdf/1909.07541.pdf) [[Project Page](https://github.com/I2RDL2/ASTAR-3D)] [ICRA'2020]
 - Ford AV Dataset : [Ford Multi-AV Seasonal Dataset](https://s23.q4cdn.com/258866874/files/doc_downloads/2020/03/2003.07969.pdf) [[Project Page](https://avdata.ford.com/home/default.aspx)] [arXiv'2020]
 - A2D2 : [A2D2: Audi Autonomous Driving Dataset](https://arxiv.org/pdf/2004.06320.pdf) [[Project Page](https://www.a2d2.audi/a2d2/en.html)] [arXiv'2020]
+- ONCE : [One Million Scenes for Autonomous Driving: ONCE Dataset](https://arxiv.org/pdf/2106.11037.pdf) [[Project Page](https://once-for-auto-driving.github.io/index.html)] [NeurIPS'2021]
+- Argoverse 2 : [Argoverse 2: Next Generation Datasets for Self-Driving Perception and Forecasting](https://openreview.net/pdf?id=vKQGe36av4k) [[Project Page](https://www.argoverse.org/av2.html)] [NeurIPS'2021]
+- DAIR-V2X : [DAIR-V2X : A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_DAIR-V2X_A_Large-Scale_Dataset_for_Vehicle-Infrastructure_Cooperative_3D_Object_Detection_CVPR_2022_paper.pdf) [[Project Page](https://thudair.baai.ac.cn/index)] [CVPR'2022]
 
 ## Detection
 The collected methods do not include all papers in point cloud object detection. The condition is that either the paper has released code or its result is at the top in leaderboard. 
@@ -53,6 +56,9 @@ Forecasting with a Single Convolutional Net](http://openaccess.thecvf.com/conten
 - MVP: [Multimodal Virtual Point 3D Detection](https://arxiv.org/pdf/2111.06881.pdf) [[Code](https://github.com/tianweiy/MVP)] [NeurIPS'2021]
 - RSN: [RSN: Range Sparse Net for Efficient, Accurate LiDAR 3D Object Detection](https://arxiv.org/pdf/2106.13365.pdf) [CVPR'2021]
 - PDV: [Point Density-Aware Voxels for LiDAR 3D Object Detection](https://arxiv.org/pdf/2203.05662.pdf) [[Code](https://github.com/TRAILab/PDV)] [CVPR'2022]
+- VoxSeT: [Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds](https://www4.comp.polyu.edu.hk/~cslzhang/paper/VoxSeT_cvpr22.pdf) [[Code](https://github.com/skyhehe123/VoxSeT)] [CVPR'2022]
+- Point2Seq: [Point2Seq: Detecting 3D Objects as Sequences arXiv:2203.13394v1](https://openaccess.thecvf.com/content/CVPR2022/papers/Xue_Point2Seq_Detecting_3D_Objects_As_Sequences_CVPR_2022_paper.pdf) [[Code](https://github.com/ocNflag/point2seq)] [CVPR'2022]
+- PillarNet: [PillarNet : Real-Time and High-Performance Pillar-based 3D Object Detection](https://arxiv.org/pdf/2205.07403.pdf) [[Code](https://github.com/agent-sgs/PillarNet)] [ECCV'2022]
 
 
 ## Tracking
@@ -77,3 +83,6 @@ Object Detection and Tracking from Point Clouds](https://www.ram-lab.com/papers/
 - BAT: [Box-Aware Feature Enhancement for Single Object Tracking on Point Clouds](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Box-Aware_Feature_Enhancement_for_Single_Object_Tracking_on_Point_Clouds_ICCV_2021_paper.pdf) [[Code](https://github.com/Ghostish/BAT)] [ICCV'2021]
 - LTTR: [3D Object Tracking with Transformer](https://arxiv.org/pdf/2110.14921.pdf) [[Code](https://github.com/3bobo/lttr)] [BMVC'2021]
 - V2B: [3D Siamese Voxel-to-BEV Tracker for Sparse Point Clouds](https://arxiv.org/pdf/2111.04426.pdf) [[Code](https://github.com/fpthink/V2B)] [NeurIPS'2021]
+- PTTR: [PTTR: Relational 3D Point Cloud Object Tracking with Transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_PTTR_Relational_3D_Point_Cloud_Object_Tracking_With_Transformer_CVPR_2022_paper.pdf) [[Code](https://github.com/Jasonkks/PTTR)] [CVPR'2022]
+- M2-Tracker: [Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Beyond_3D_Siamese_Tracking_A_Motion-Centric_Paradigm_for_3D_Single_CVPR_2022_paper.pdf) [[Code](https://github.com/Ghostish/Open3DSOT)] [CVPR'2022]
+- STNet: [3D Siamese Transformer Network for Single Object Tracking on Point Clouds](https://arxiv.org/pdf/2207.11995.pdf) [[Code](https://github.com/fpthink/STNet)] [ECCV'2022]
